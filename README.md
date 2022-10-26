@@ -8,4 +8,4 @@
 ## My GitHub Stats
 [![Klishchuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=olgaklischuk)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img height="15" src="https://img.shields.io/github/downloads/olgaklischuk/olgaklischuk/total?color=lightgreen>" /] 
+[<img height="15" src="https://img.shields.io/github/downloads/olgaklischuk/olgaklischuk/total?color=lightgreen>" />] 
