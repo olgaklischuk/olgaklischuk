@@ -2,7 +2,7 @@
 [<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/OlhaKlishchuk)
 - 👀 I’m interested in econometrics and building R packages for solving econometric exercises.
 - 🌱 I’m currently mastering building R packages methods.
-- 💞️ I’m looking to collaborate on creating and developing R and Python projects.
+- 👩‍💻 I’m looking to collaborate on creating and developing R and Python projects.
 - 📫 You can reach me via mailing oklischyk@gmail.com
 
 ## My GitHub Stats
