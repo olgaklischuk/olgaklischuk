@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @olgaklischuk
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi, I’m @olgaklischuk
 - 👀 I’m interested in econometrics and building R packages for solving econometric exercises.
-- 🌱 I’m currently learning building R packages.
+- 🌱 I’m currently mastering building R packages methods.
 - 💞️ I’m looking to collaborate on creating and developing R and Python projects.
 - 📫 You can reach me via mailing oklischyk@gmail.com
 
